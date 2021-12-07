@@ -1,0 +1,133 @@
+body{
+    position: relative;
+    margin: 0;
+    background-image: url("/img/back.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    font-family: 'Nunito', sans-serif;
+}
+.menu ul li{
+    margin-left: 100px;
+    list-style: none;
+    display: inline-block;
+}
+.menu{
+    width: 610px;
+    max-width: 100%;
+}
+.wrapper{
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.logo{
+    width: 80px;
+    max-width: 100%;
+}
+.event{
+    max-width: 100%;
+    width: 40px;
+    margin-bottom: 30%;
+}
+
+.card{
+    float:left;
+    margin: 40px 40px;
+    position: relative;
+    width: 250px;
+    height: 350px;
+    border-radius: 50px;
+}
+.card img {
+	position: absolute;
+    width: 250px;
+    border-radius:50px 50px 0 0;
+    height: 300px;
+}
+.price{
+    position: absolute;
+    margin-top: 313px; ;
+    margin-left: 20px;
+}
+.price_txt{
+    position: absolute;
+    margin-top: 313px; ;
+    margin-left: 70px;
+}
+.cart{
+    position: absolute;
+    margin-top: 307px;
+    margin-left: 200px;
+    width: 30px;
+    height: 30px;
+    background-image: url("/svg/cart.svg");
+    background-size: cover;
+    border: none;
+    border-radius: 10px;
+    background-color: #F2F2F2;
+    opacity: 50%;
+}
+.cart:hover{
+    opacity: 100%;
+    background-color: #18C4FF;
+}
+input{
+    position: absolute;
+    text-align: center;
+    width:15px;
+    height: 14px;
+    margin-top: 315px;
+    margin-left: 143px;
+    border: none;
+    outline-style:none;
+    background-color: #F2F2F2;
+}
+.counter{
+    border: solid 1px black;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 120px;
+    height: 23px;
+    width: 65px ;
+}
+.plus{
+    background-image: url("/svg/plus.svg");
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    margin-top: 2px;
+    margin-left: 22px;
+    border: none;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+}
+.plus:hover{
+    opacity: 50%;
+}
+.minus:hover{
+    opacity: 50%;
+}
+.minus{
+    background-image: url("/svg/minus.svg");
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    margin-top: 2px;
+    margin-left: 1px;
+    border: none;
+    background-color: #F2F2F2;
+    border-radius: 10px;
+}
+.border{
+    z-index: -1;
+    position: relative;
+    margin-top: 50px;
+    margin-left: -0.3px;
+    height: 295px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: #F2F2F2;
+}
+

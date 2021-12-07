@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    background-image: url("/img/back.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.menu ul li{
+    margin-left: 100px;
+    list-style: none;
+    display: inline-block;
+}
+.menu{
+    margin-left: 550px;
+    width: 550px;
+}
+.logo{
+    width: 80px;
+}
+.event{
+    width: 40px;
+    margin-bottom: 30%;
+}

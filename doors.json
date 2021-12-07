@@ -1,0 +1,82 @@
+{
+    "o1": {
+        "cost" : 5000,
+        "img" : "img/doors/01.jpg"
+    },
+    "o2": {
+        "cost" : 6000,
+        "img" : "img/doors/02.jpg"
+    },
+    "o3": {
+        "cost" : 4000,
+        "img" : "img/doors/03.jpg"
+    },
+    "o4": {
+        "cost" : 8000,
+        "img" : "img/doors/04.jpg"
+    },
+    "o5": {
+        "cost" : 3000,
+        "img" : "img/doors/05.jpg"
+    },
+    "o6": {
+        "cost" : 9000,
+        "img" : "img/doors/06.jpg"
+    },
+    "o7": {
+        "cost" : 5000,
+        "img" : "img/doors/07.jpg"
+    },
+    "o8": {
+        "cost" : 9000,
+        "img" : "img/doors/08.jpg"
+    },
+    "o9": {
+        "cost" : 3000,
+        "img" : "img/doors/09.jpg"
+    },
+    "10": {
+        "cost" : 6000,
+        "img" : "img/doors/10.jpg"
+    },
+    "11": {
+        "cost" : 7000,
+        "img" : "img/doors/11.jpg"
+    },
+    "12": {
+        "cost" : 10000,
+        "img" : "img/doors/12.jpg"
+    },
+    "13": {
+        "cost" : 5000,
+        "img" : "img/doors/13.jpg"
+    },
+    "14": {
+        "cost" : 8000,
+        "img" : "img/doors/14.jpg"
+    },
+    "15": {
+        "cost" : 6000,
+        "img" : "img/doors/15.jpg"
+    },
+    "16": {
+        "cost" : 9000,
+        "img" : "img/doors/16.jpg"
+    },
+    "17": {
+        "cost" : 15000,
+        "img" : "img/doors/17.jpg"
+    },
+    "18": {
+        "cost" : 12000,
+        "img" : "img/doors/18.jpg"
+    },
+    "19": {
+        "cost" : 7000,
+        "img" : "img/doors/19.jpg"
+    },
+    "20": {
+        "cost" : 10000,
+        "img" : "img/doors/20.jpg"
+    }
+}

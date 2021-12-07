@@ -1,0 +1,80 @@
+.choise{
+    position: absolute;
+    justify-content: space-between;
+    display: flex;
+}
+.door img{
+    width: 464px;
+    height: 600px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+.door{
+    position: relative;
+    text-align: center;
+    margin-left: 140px;
+}
+.win img{
+    border-radius: 50px;
+    height: 600px;
+    width: 464px;
+    object-fit: cover;
+}
+.win{
+    position: relative;
+    text-align: center;
+    margin-right: 55px;
+}
+.content{
+    background-image: url("/svg/quest.svg");
+    object-fit: cover;
+    border-radius: 50px;
+    position:relative;
+    text-align: center;
+    width: 450px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.content ul{
+    margin-top: 50%;
+    list-style: none;
+}
+.content li{
+    display: inline-block;
+}
+.content h1{
+    position: relative;
+    margin: 0;
+    font-size: 40px;
+    color: #000000;
+}
+.content img{
+    width: 50px;
+}
+.win h1{
+    width: 100%;
+    position: absolute;
+    top: 250px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.466);
+}
+.door h1{
+    width: 100%;
+    position: absolute;
+    top: 250px;
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.466);
+}
+.win:hover h1{
+    top: 250px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+.door:hover h1{
+    top: 250px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    
+}
